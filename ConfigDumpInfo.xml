@@ -29,8 +29,8 @@
 			<Metadata name="Document.ВнутреннийЗаказ.TabularSection.Заказы.Attribute.Количество" id="d9debf0f-df07-4f0f-96c1-8809ab164380"/>
 			<Metadata name="Document.ВнутреннийЗаказ.Attribute.Подразделения" id="e914f10b-26d4-4bd5-a188-a37c50dfe414"/>
 		</Metadata>
-		<Metadata name="Document.ВнутреннийЗаказ.Form.ФормаДокумента" id="1b7d80aa-824a-4660-a6c8-c9c656342a21" configVersion="6df1f5e0a076ad4cb3acdce69e646c4200000000"/>
-		<Metadata name="Document.ВнутреннийЗаказ.Form.ФормаДокумента.Form" id="1b7d80aa-824a-4660-a6c8-c9c656342a21.0" configVersion="9497b793578cfa40974182c2b8cad8e700000000"/>
+		<Metadata name="Document.ВнутреннийЗаказ.Form.ФормаДокумента" id="1b7d80aa-824a-4660-a6c8-c9c656342a21" configVersion="0a3b7dca41d73c43912ccfa9142f585d00000000"/>
+		<Metadata name="Document.ВнутреннийЗаказ.Form.ФормаДокумента.Form" id="1b7d80aa-824a-4660-a6c8-c9c656342a21.0" configVersion="ad1853facf128a40889ec8ac63f9aff600000000"/>
 		<Metadata name="Document.ВнутреннийЗаказ.ObjectModule" id="b694c849-ac5a-4465-a7d5-0651f6ee7be2.0" configVersion="9d3360b7b0bd354a8b5b34b49b7aa28900000000"/>
 		<Metadata name="Enum.Статус" id="204552d1-e1d7-4088-a277-15f38e4846f6" configVersion="69f47af552ec7941ab8ab1f914e2d04c00000000">
 			<Metadata name="Enum.Статус.EnumValue.Новый" id="1bd32126-8021-4f1d-afc2-86df4dccac65"/>
