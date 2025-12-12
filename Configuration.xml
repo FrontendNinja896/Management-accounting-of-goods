@@ -245,6 +245,10 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Role>Администратор</Role>
+			<Role>Менеджер</Role>
+			<Role>Руководитель</Role>
+			<Role>Бухгалтер</Role>
 			<CommonForm>РабочийСтол</CommonForm>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
